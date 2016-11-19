@@ -1,0 +1,2 @@
+python MiyoungBot.py
+pause
